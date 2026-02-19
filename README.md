@@ -2,11 +2,12 @@
 <h3 align="center">Aspiring Data Scientist | DSA with Java</h3>
 
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/Harsh-Tripathi583/Harsh-Tripathi583/main/ggif.gif"/>
+
 
 
 
 ---
+<img align="right" width="320" src="https://raw.githubusercontent.com/Harsh-Tripathi583/Harsh-Tripathi583/main/A_serious_programmer_202602192033.gif"/>
 
 ### 👨‍💻 About Me
 
