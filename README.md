@@ -2,8 +2,8 @@
 <h3 align="center">Aspiring Data Scientist | DSA with Java</h3>
 
 
-  (img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://raw.githubusercontent.com/Harsh-Tripathi583/Harsh-Tripathi583/main/ggif.gif
-)")
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/Harsh-Tripathi583/Harsh-Tripathi583/main/ggif.gif"/>
+
 
 
 ---
