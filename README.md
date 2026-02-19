@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Scientist | DSA with Java</h3>
 
 <p align="center">
-  <img src="YOUR_GIF_LINK_HERE" width="280"/>
+  <img src="[YOUR_GIF_LINK_HERE](https://raw.githubusercontent.com/Harsh-Tripathi583/Harsh-Tripathi583/refs/heads/main/ggif.gif)" width="280"/>
 </p>
 
 ---
