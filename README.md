@@ -14,7 +14,7 @@
 
 
 ---
-<img align="right" width="320" src="https://raw.githubusercontent.com/Harsh-Tripathi583/Harsh-Tripathi583/main/A_serious_programmer_202602192033.gif"/>
+<img align="right" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ### 👨‍💻 About Me
 
