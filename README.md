@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harsh Tripathi</h1>
 <h3 align="center">Aspiring Data Scientist | DSA with Java</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Harsh-Tripathi583/Harsh-Tripathi583/main/ggif.gif" width="280"/>
-</p>
+
+  (img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://raw.githubusercontent.com/Harsh-Tripathi583/Harsh-Tripathi583/main/ggif.gif
+)")
 
 
 ---
