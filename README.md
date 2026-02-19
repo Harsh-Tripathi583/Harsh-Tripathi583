@@ -46,20 +46,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 </p>
-### 📊 Most Used Languages
-
-<div style="width:100%; background:#1f2430; border-radius:8px; overflow:hidden; height:18px;">
-
-  <div style="width:40%; background:#f89820; height:18px; float:left"></div> <!-- Java -->
-  <div style="width:25%; background:#3572A5; height:18px; float:left"></div> <!-- Python -->
-  <div style="width:20%; background:#00599C; height:18px; float:left"></div> <!-- C++ -->
-  <div style="width:15%; background:#F29111; height:18px; float:left"></div> <!-- SQL -->
-
-</div>
-
-<br>
-
-Java 40% • Python 25% • C++ 20% • SQL 15%
 
 
 ---
