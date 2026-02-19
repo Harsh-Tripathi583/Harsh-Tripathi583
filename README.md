@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d"/>
+</p>
+
+
+
+
 <h1 align="center">Hi 👋, I'm Harsh Tripathi</h1>
 <h3 align="center">Aspiring Data Scientist | DSA with Java</h3>
 
@@ -39,13 +46,28 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 </p>
+### 📊 Most Used Languages
+
+<div style="width:100%; background:#1f2430; border-radius:8px; overflow:hidden; height:18px;">
+
+  <div style="width:40%; background:#f89820; height:18px; float:left"></div> <!-- Java -->
+  <div style="width:25%; background:#3572A5; height:18px; float:left"></div> <!-- Python -->
+  <div style="width:20%; background:#00599C; height:18px; float:left"></div> <!-- C++ -->
+  <div style="width:15%; background:#F29111; height:18px; float:left"></div> <!-- SQL -->
+
+</div>
+
+<br>
+
+Java 40% • Python 25% • C++ 20% • SQL 15%
+
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=harsh-tripathi583&show_icons=true&theme=tokyonight"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-tripathi583&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh-tripathi583&show_icons=true&layout=compact&theme=tokyonight"/>
+
 </p>
